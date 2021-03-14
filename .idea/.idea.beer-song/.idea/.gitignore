@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.beer-song.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\projects\beer-song\.idea\.idea.beer-song\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

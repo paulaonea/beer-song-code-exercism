@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerSongSimpleSolution", "BeerSongSimpleSolution\BeerSongSimpleSolution.csproj", "{D20825FF-5249-466D-B616-5531D164010D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerSongSolutionUsingClasses", "BeerSongSolutionUsingClasses\BeerSongSolutionUsingClasses.csproj", "{CE493B4B-405E-400F-8DBE-1C1648C3325C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20825FF-5249-466D-B616-5531D164010D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20825FF-5249-466D-B616-5531D164010D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20825FF-5249-466D-B616-5531D164010D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20825FF-5249-466D-B616-5531D164010D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE493B4B-405E-400F-8DBE-1C1648C3325C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE493B4B-405E-400F-8DBE-1C1648C3325C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE493B4B-405E-400F-8DBE-1C1648C3325C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE493B4B-405E-400F-8DBE-1C1648C3325C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
